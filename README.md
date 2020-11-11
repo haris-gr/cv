@@ -1,15 +1,15 @@
-# Kotsovos Panagiotis
-## IT Expert 
+# GRIGORIOU THEOCHARIS
+## AUTOMATION ENGINEER 
 <img src="PHOTO.jpg" height="200" width="150">
 
 
 ## Personal Information
 
-Address : Isionis 17 , Athens Greece
+Address : Stratigou Sarafi 35 , Thessaloniki Greece
 
-Phone   : **+30 694 2815 544**
+Phone   : **+30 6958356857**
 
-Email   : std138300@ac.eap.gr
+Email   : std138899@ac.eap.gr
 
 
 ## Education
@@ -18,45 +18,29 @@ Email   : std138300@ac.eap.gr
 
 > - ![SDY](https://www.eap.gr/education/postgraduate/annual/mobile-and-diffuse-computing-systems/)
 
-**2010 - 2017    :** Department of Computer Science , Hellenic Open University
+**2009 - 2016    :** Alexander Technological Education Institute of Thessaloniki
 
-> -PLH
+> -Bachelor of enginnering - Automation Engineer Technology/Technician
 
 ## Work Experience
 
-**2018 - Present :** *IT expert*
+**2016 - Present :** *Automation Enginner*
 
-1. IT consult
-2. IT Admin
-
-**2010 - 2016 :** *IT admin*, Municipality of Amaroussion
-
-- IT Admin
-   - Active directory
-   - File server
-   - Pc support
-   
-- Web Admin
-   - Web servers
-   - Mail servers
    
 ## Technical Skills
 
 | Programming language | level | 
 | ------------- | ------------- | 
-| Java | Very Good | 
+| Java | Good | 
 | C++ | Very Good  | 
 | Python  | Good | 
 
 ## Seminars attending
-- [x] Java
 - [x] Arduino
 
 ## Hobbies
+
 ### Photography
 
-![Image photo](http://www.myiconfinder.com/uploads/iconsets/128-128-c0cf69f3ef6feded92ce448c8caffdc0-camera.png)
 
-### Drones
 
-![drone photo](https://icon-icons.com/icons2/1738/PNG/128/iconfinder-technologymachineelectronicdevice06-4026454_113332.png)
