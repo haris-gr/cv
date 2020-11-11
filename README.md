@@ -16,7 +16,6 @@ Email   : std138899@ac.eap.gr
 
 **2019 - Present :** Pervasive and Mobile Computing Systems MSc , Hellenic Open University
 
-> - ![SDY](https://www.eap.gr/education/postgraduate/annual/mobile-and-diffuse-computing-systems/)
 
 **2009 - 2016    :** Alexander Technological Education Institute of Thessaloniki
 
@@ -37,6 +36,13 @@ Email   : std138899@ac.eap.gr
 
 ## Seminars attending
 - [x] Arduino
+
+ - ## Spoken languages
+  Language | Level
+------------ | -------------
+ English | Very Good
+ German  | Medium
+ Greek   | Native
 
 ## Hobbies
 
