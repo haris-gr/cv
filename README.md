@@ -1,9 +1,9 @@
 # GRIGORIOU THEOCHARIS
--## AUTOMATION ENGINEER 
+ - ## AUTOMATION ENGINEER 
 <img src="PHOTO.jpg" height="200" width="150">
 
 
--## Personal Information
+ - ## Personal Information
 
 Address : Stratigou Sarafi 35 , Thessaloniki Greece
 
@@ -12,7 +12,7 @@ Phone   : **+30 6958356857**
 Email   : std138899@ac.eap.gr
 
 
--## Education
+ - ## Education
 
 **2019 - Present :** Pervasive and Mobile Computing Systems MSc , Hellenic Open University
 
@@ -21,12 +21,12 @@ Email   : std138899@ac.eap.gr
 
 > -Bachelor of enginnering - Automation Engineer Technology/Technician
 
--## Work Experience
+ - ## Work Experience
 
 **2016 - Present :** *Automation Enginner*
 
    
--## Technical Skills
+ - ## Technical Skills
 
 | Programming language | level | 
 | ------------- | ------------- | 
@@ -34,7 +34,7 @@ Email   : std138899@ac.eap.gr
 | C++ | Very Good  | 
 | Python  | Good | 
 
--## Seminars attending
+ - ## Seminars attending
 - [x] Arduino
 
  - ## Spoken languages
