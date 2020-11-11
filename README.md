@@ -9,7 +9,7 @@ Address : Stratigou Sarafi 35 , Thessaloniki Greece
 
 Phone   : **+30 6958356857**
 
-Email   : std138899@ac.eap.gr
+Email   : std138099@ac.eap.gr
 
 
  - ## Education
