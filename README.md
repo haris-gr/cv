@@ -44,7 +44,7 @@ Email   : std138899@ac.eap.gr
  German  | Medium
  Greek   | Native
 
-## Hobbies
+ - ## Hobbies
 
 ### Photography
 
