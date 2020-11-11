@@ -1,6 +1,6 @@
 # Kotsovos Panagiotis
 ## IT Expert 
-<img src="PHOTO.jpg" height="170" width="150">
+<img src="PHOTO.jpg" height="200" width="150">
 
 
 ## Personal Information
